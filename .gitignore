@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 
 library.ipynb
 venv
 DATASETAS
+=======
+Cheat Sheet
+.ipynb_checkpoints
+Pictures
+Datasets
+01-git-github.ipynb
+02-Librarys.ipynb
+03-Signal.ipynb
+venv
+>>>>>>> 46f51a1
